@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441891999703",
+    "project_id": "pizzaburguer-f8d57",
+    "storage_bucket": "pizzaburguer-f8d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441891999703:android:8ba0e4046540f134028592",
+        "android_client_info": {
+          "package_name": "com.example.pizzaburguer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMUaZIInbtyNnURgmtMPr7WmLbzPIWlvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
